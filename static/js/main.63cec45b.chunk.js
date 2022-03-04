@@ -1,0 +1,2 @@
+(this.webpackJsonpmarcussinclaircom=this.webpackJsonpmarcussinclaircom||[]).push([[0],{10:function(c,n,r){"use strict";r.r(n);var e=r(3),s=(r(8),r(0));function t(){return Object(s.jsxs)("div",{className:"App",children:[Object(s.jsx)("h1",{children:"Marcus Sinclair"}),Object(s.jsx)("p",{children:"Currently under construction..."})]})}var i=document.getElementById("root");Object(e.render)(Object(s.jsx)(t,{}),i)},8:function(c,n,r){}},[[10,1,2]]]);
+//# sourceMappingURL=main.63cec45b.chunk.js.map

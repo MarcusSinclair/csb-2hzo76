@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://marcussinclair.github.io/csb-2hzo76/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://marcussinclair.github.io/csb-2hzo76/static/js/main.63cec45b.chunk.js",
+    "main.js.map": "https://marcussinclair.github.io/csb-2hzo76/static/js/main.63cec45b.chunk.js.map",
+    "runtime-main.js": "https://marcussinclair.github.io/csb-2hzo76/static/js/runtime-main.4bc2f0e0.js",
+    "runtime-main.js.map": "https://marcussinclair.github.io/csb-2hzo76/static/js/runtime-main.4bc2f0e0.js.map",
+    "static/js/2.348c870e.chunk.js": "https://marcussinclair.github.io/csb-2hzo76/static/js/2.348c870e.chunk.js",
+    "static/js/2.348c870e.chunk.js.map": "https://marcussinclair.github.io/csb-2hzo76/static/js/2.348c870e.chunk.js.map",
+    "index.html": "https://marcussinclair.github.io/csb-2hzo76/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://marcussinclair.github.io/csb-2hzo76/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.348c870e.chunk.js.LICENSE.txt": "https://marcussinclair.github.io/csb-2hzo76/static/js/2.348c870e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bc2f0e0.js",
+    "static/js/2.348c870e.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.63cec45b.chunk.js"
+  ]
+}
